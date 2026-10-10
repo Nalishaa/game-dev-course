@@ -1,0 +1,6 @@
+# LÖVE installation files
+/love.app/
+/love-11.5-macos.zip
+
+# macOS files
+.DS_Store
